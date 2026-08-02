@@ -1,16 +1,15 @@
-## Hi there 👋
+### Scot Christiansen: Kebekian Analyst of Pixel Compressions
+#### kcebllwuhu
+#### Future Branding Liaison
+#### Automation Geek & Pixel Crusher
+#### Focus: Compressing the Impenetrable
+#### Motto: Face to face bifurcated analyzer
 
-<!--
-**kcebllwuhu/kcebllwuhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**:headphones: Discord: `discord.gg/kcebllwuhu`**:headphones:
 
-Here are some ideas to get you started:
+**pixel compression**
+**graphql**
+**aws**
+**redis**
+**mongodb**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
